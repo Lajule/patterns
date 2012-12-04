@@ -41,7 +41,7 @@ namespace Patterns
 
 	///////////////////////////////////////////////////////////////////////////
 	// function Create
-	// Create a concrete product with given AbstractFactory.
+	// Creates a concrete product with given AbstractFactory.
 	///////////////////////////////////////////////////////////////////////////
 	template <class T>
 	T* Create(AbstractFactory<T>& factory, T* model = 0)

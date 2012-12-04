@@ -71,7 +71,7 @@ namespace Patterns
 
 	///////////////////////////////////////////////////////////////////////////
 	// function Field
-	// Access to a TupleUnit from a Tuple.
+	// Gives access to a TupleUnit from a Tuple.
 	///////////////////////////////////////////////////////////////////////////
 	template <std::size_t Index, class T>
 	typename Private::FieldHelper<Index, T>::Result& Field(T& tuple)
