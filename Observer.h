@@ -1,3 +1,9 @@
+//        __            __      __
+//       / /  ___      / /_  __/ /  ____
+//      / /  / _ |_   / / / / / /  / __/     patterns
+//     / /__/ __ | \_/ / /_/ / /__/ -__      2012, Julien Rouzieres
+//    /____/_/ |_|\___/|____/____/____/      https://github.com/Lajule/patterns
+//
 #ifndef OBSERVER_H
 #define OBSERVER_H
 
