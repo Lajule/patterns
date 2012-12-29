@@ -35,7 +35,7 @@ namespace Patterns
 			typename CreatorMap::iterator it = _map.find(id);
 			if (it != _map.end())
 				return (*it).second();
-			throw std::out_of_range("Factory::Create");
+			throw std::out_of_range("FactoryMethod::Create");
 		}
 
 	protected:
