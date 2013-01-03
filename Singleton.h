@@ -1,8 +1,8 @@
-//        __         _______    __
-//       / /  ___   /__  __/ __/ /  ____
-//      / /  / _ |_   / / / / / /  / __/     patterns
-//     / /__/ __ | \_/ / /_/ / /__/ -__      2012, Julien Rouzieres
-//    /____/_/ |_|\___/|____/____/____/      https://github.com/Lajule/patterns
+//        __          _______    __
+//       / /  ___    /__  __/ __/ /  ____
+//      / /  / _ | __  / / / / / /  / __/    patterns
+//     / /__/ __ |/ /_/ / /_/ / /__/ -__     2012, Julien Rouzieres
+//    /____/_/ |_|\____/|____/____/____/     https://github.com/Lajule/patterns
 //
 #ifndef SINGLETON_H
 #define SINGLETON_H
